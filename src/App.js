@@ -123,11 +123,11 @@ class PatterneDGrid{
                 patternFunction:props.patternFuntion
                }
   }
-  render(){
+  /*render(){
     return (
-      
+
     );
-  }
+  }*/
 }
 
 function serializeRGBtoString(r, g, b) {
